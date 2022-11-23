@@ -4,7 +4,7 @@
 
  This is a mod menu with ImGui for Android Unity Games
  Preview (built in Standoff 2):
- [<img src="image/menu.png" width="639" height="235.5" alt="menu"/>](image/menu.png)
+ [<img src="image/menu.png" alt="menu"/>](image/menu.png)
  # Why i'm copypasta this project?
  the open code of this menu was initially merged, I fixed it and made it under Android Studio
  The original open source source belongs to [OzMod](https://github.com/ozmod)
@@ -30,7 +30,7 @@
    invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
    ```
    Not sure? It need to be like
-    [<img src="image/inj.png" width="1365" height="385" alt="menu"/>](image/inj.png)
+    [<img src="image/inj.png" alt="menu"/>](image/inj.png)
 
 # Why menu crashed on start game?
 This is due to ESP. Because initially ESP was made for the game [BPM](https://www.google.com/search?q=blockpost+mobile)
